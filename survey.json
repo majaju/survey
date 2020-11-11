@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.0.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"health_care"},
+{"type":"table","name":"survey","database":"health_care","data":
+[
+{"id":"31","lname":"hiremath","fname":"rahul","DOB":"2000-05-13","weight":"45","height":"1.61","med":"Yes","bad":"","member":"Diabetes","severe":"Mild","hist":"Yes","immune":"Sometimes"},
+{"id":"32","lname":"jaju","fname":"neena","DOB":"2000-11-17","weight":"60","height":"1.61","med":"no","bad":"Tobaccco,Drugs","member":"Asthma","severe":"Severe","hist":"No","immune":"Sometimes"},
+{"id":"33","lname":"ghatole","fname":"shiv","DOB":"1999-10-11","weight":"34","height":"1.42","med":"Yes","bad":"Tobaccco,Alcohol","member":"Diabetes","severe":"Mild","hist":"No","immune":"Often"},
+{"id":"34","lname":"Patro","fname":"Ranjana ","DOB":"2000-05-22","weight":"67","height":"1.62","med":"no","bad":"Alcohol","member":"Asthma,Cardiac disease","severe":"Severe","hist":"No","immune":"Sometimes"},
+{"id":"35","lname":"Kulkarni","fname":"Devashish","DOB":"2002-04-30","weight":"40","height":"1.51","med":"Yes","bad":"Alcohol","member":"Diabetes","severe":"Severe","hist":"No","immune":"Sometimes"}
+]
+}
+]
